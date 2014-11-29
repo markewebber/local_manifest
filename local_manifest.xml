@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--Device tree-->
+<project path="device/samsung/jflteusc" name="makrewebber/android_device_samsung_jflteusc" remote="github" revision="lpop" />
+<project path="device/samsung/jf-common" name="markewebber/android_device_samsung_jf-common" remote="github" revision="lpop" />
+<project path="device/samsung/qcom-common" name="markewebber/android_device_samsung_qcom-common" remote="github" revision="lpop" />
+<project path="hardware/samsung" name="markewebber/hardware_samsung" remote="github" revision="lpop" />
+<!--Kernel-->
+<project path="kernel/samsung/jf" name="markewebber/android_kernel_samsung_jf" remote="github" revision="lpop" />
+</manifest>
